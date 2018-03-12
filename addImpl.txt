@@ -1,0 +1,16 @@
+追加
+Broadcast a message to connected users when someone connects or disconnects
+
+誰かが接続または切断したときに接続されたユーザーにメッセージをブロードキャストする
+
+Add support for nicknames
+ニックネームをつける
+
+Don’t send the same message to the user that sent it himself.
+Instead, append the message directly as soon as he presses enter.
+
+自分で送信したユーザーに同じメッセージを送信しないでください。
+代わりに、彼がenterを押すとすぐにメッセージを直接追加してください。
+
+
+Add private messaging
